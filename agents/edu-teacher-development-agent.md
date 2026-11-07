@@ -6,7 +6,7 @@ displayName:
   zh: '教师能力发展'
 profession:
   en: 'Teacher Development Agent'
-  zh: ''
+  zh: '教师能力发展专家'
 maxTurns: 50
 ---
 

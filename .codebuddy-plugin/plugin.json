@@ -1,6 +1,6 @@
 {
   "name": "edu-teacher-development-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Teacher Development Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Teacher Development Agent",
-    "zh": ""
+    "zh": "教师能力发展专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Teacher Development Agent, producing reviewable plans with human checkpoints.",
